@@ -70,7 +70,7 @@ nav div:hover {
 }
 
 #avatar {
-    background-image: url("images/avatar.png");
+    background-image: url(images/avatar.png);
     width: calc(25px + 3vw);
     height: calc(30px + 3.5vw);
     border: var(--purple-prime) 5px solid;
